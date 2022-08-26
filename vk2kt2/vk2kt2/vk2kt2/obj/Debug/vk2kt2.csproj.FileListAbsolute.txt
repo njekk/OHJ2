@@ -1,0 +1,10 @@
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt2\vk2kt2\bin\Debug\vk2kt2.exe.config
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt2\vk2kt2\bin\Debug\vk2kt2.exe
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt2\vk2kt2\bin\Debug\vk2kt2.pdb
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt2\vk2kt2\obj\Debug\vk2kt2.csproj.AssemblyReference.cache
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt2\vk2kt2\obj\Debug\vk2kt2.FrmPosChance.resources
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt2\vk2kt2\obj\Debug\vk2kt2.Properties.Resources.resources
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt2\vk2kt2\obj\Debug\vk2kt2.csproj.GenerateResource.cache
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt2\vk2kt2\obj\Debug\vk2kt2.csproj.CoreCompileInputs.cache
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt2\vk2kt2\obj\Debug\vk2kt2.exe
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt2\vk2kt2\obj\Debug\vk2kt2.pdb

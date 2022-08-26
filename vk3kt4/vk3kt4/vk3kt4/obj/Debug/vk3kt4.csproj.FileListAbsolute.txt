@@ -1,0 +1,10 @@
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk3\vk3kt4\vk3kt4\bin\Debug\vk3kt4.exe.config
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk3\vk3kt4\vk3kt4\bin\Debug\vk3kt4.exe
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk3\vk3kt4\vk3kt4\bin\Debug\vk3kt4.pdb
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk3\vk3kt4\vk3kt4\obj\Debug\vk3kt4.csproj.AssemblyReference.cache
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk3\vk3kt4\vk3kt4\obj\Debug\vk3kt4.Form1.resources
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk3\vk3kt4\vk3kt4\obj\Debug\vk3kt4.Properties.Resources.resources
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk3\vk3kt4\vk3kt4\obj\Debug\vk3kt4.csproj.GenerateResource.cache
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk3\vk3kt4\vk3kt4\obj\Debug\vk3kt4.csproj.CoreCompileInputs.cache
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk3\vk3kt4\vk3kt4\obj\Debug\vk3kt4.exe
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk3\vk3kt4\vk3kt4\obj\Debug\vk3kt4.pdb

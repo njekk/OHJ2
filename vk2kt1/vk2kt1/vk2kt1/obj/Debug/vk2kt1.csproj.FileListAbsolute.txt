@@ -1,0 +1,20 @@
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt1\vk2kt1\bin\Debug\vk2kt1.exe.config
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt1\vk2kt1\bin\Debug\vk2kt1.exe
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt1\vk2kt1\bin\Debug\vk2kt1.pdb
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt1\vk2kt1\obj\Debug\vk2kt1.csproj.AssemblyReference.cache
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt1\vk2kt1\obj\Debug\vk2kt1.FrmInf.resources
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt1\vk2kt1\obj\Debug\vk2kt1.Properties.Resources.resources
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt1\vk2kt1\obj\Debug\vk2kt1.csproj.GenerateResource.cache
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt1\vk2kt1\obj\Debug\vk2kt1.csproj.CoreCompileInputs.cache
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt1\vk2kt1\obj\Debug\vk2kt1.exe
+C:\Users\Njekk\Desktop\Ohj2 forms\kotitehtävät\vk2kt1\vk2kt1\obj\Debug\vk2kt1.pdb
+C:\Users\Njekk\Documents\GitHub\OHJ2\vk2kt1\vk2kt1\vk2kt1\bin\Debug\vk2kt1.exe.config
+C:\Users\Njekk\Documents\GitHub\OHJ2\vk2kt1\vk2kt1\vk2kt1\bin\Debug\vk2kt1.exe
+C:\Users\Njekk\Documents\GitHub\OHJ2\vk2kt1\vk2kt1\vk2kt1\bin\Debug\vk2kt1.pdb
+C:\Users\Njekk\Documents\GitHub\OHJ2\vk2kt1\vk2kt1\vk2kt1\obj\Debug\vk2kt1.csproj.AssemblyReference.cache
+C:\Users\Njekk\Documents\GitHub\OHJ2\vk2kt1\vk2kt1\vk2kt1\obj\Debug\vk2kt1.FrmInf.resources
+C:\Users\Njekk\Documents\GitHub\OHJ2\vk2kt1\vk2kt1\vk2kt1\obj\Debug\vk2kt1.Properties.Resources.resources
+C:\Users\Njekk\Documents\GitHub\OHJ2\vk2kt1\vk2kt1\vk2kt1\obj\Debug\vk2kt1.csproj.GenerateResource.cache
+C:\Users\Njekk\Documents\GitHub\OHJ2\vk2kt1\vk2kt1\vk2kt1\obj\Debug\vk2kt1.csproj.CoreCompileInputs.cache
+C:\Users\Njekk\Documents\GitHub\OHJ2\vk2kt1\vk2kt1\vk2kt1\obj\Debug\vk2kt1.exe
+C:\Users\Njekk\Documents\GitHub\OHJ2\vk2kt1\vk2kt1\vk2kt1\obj\Debug\vk2kt1.pdb

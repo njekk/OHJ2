@@ -1,0 +1,10 @@
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\TimerApp\TimerApp\bin\Debug\TimerApp.exe.config
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\TimerApp\TimerApp\bin\Debug\TimerApp.exe
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\TimerApp\TimerApp\bin\Debug\TimerApp.pdb
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\TimerApp\TimerApp\obj\Debug\TimerApp.csproj.AssemblyReference.cache
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\TimerApp\TimerApp\obj\Debug\TimerApp.Form1.resources
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\TimerApp\TimerApp\obj\Debug\TimerApp.Properties.Resources.resources
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\TimerApp\TimerApp\obj\Debug\TimerApp.csproj.GenerateResource.cache
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\TimerApp\TimerApp\obj\Debug\TimerApp.csproj.CoreCompileInputs.cache
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\TimerApp\TimerApp\obj\Debug\TimerApp.exe
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\TimerApp\TimerApp\obj\Debug\TimerApp.pdb

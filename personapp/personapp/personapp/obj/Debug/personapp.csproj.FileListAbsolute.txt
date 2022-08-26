@@ -1,0 +1,14 @@
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\personapp\personapp\bin\Debug\personapp.exe.config
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\personapp\personapp\bin\Debug\personapp.exe
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\personapp\personapp\bin\Debug\personapp.pdb
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\personapp\personapp\obj\Debug\personapp.csproj.AssemblyReference.cache
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\personapp\personapp\obj\Debug\personapp.Form1.resources
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\personapp\personapp\obj\Debug\personapp.Properties.Resources.resources
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\personapp\personapp\obj\Debug\personapp.csproj.GenerateResource.cache
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\personapp\personapp\obj\Debug\personapp.csproj.CoreCompileInputs.cache
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\personapp\personapp\obj\Debug\personapp.exe
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\personapp\personapp\obj\Debug\personapp.pdb
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\personapp\personapp\obj\Debug\personapp.FrmInvidual.resources
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\personapp\personapp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\personapp\personapp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Njekk\Desktop\Ohj2 forms\tuntihommia\personapp\personapp\obj\Debug\personapp.csproj.CopyComplete

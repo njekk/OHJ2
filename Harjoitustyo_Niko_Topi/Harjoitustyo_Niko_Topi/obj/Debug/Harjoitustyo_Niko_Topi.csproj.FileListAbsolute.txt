@@ -1,0 +1,69 @@
+C:\Users\Topsun opiskelut\source\repos\UusinOhjelma\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Harjoitustyo_Niko_Topi.exe.config
+C:\Users\Topsun opiskelut\source\repos\UusinOhjelma\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Harjoitustyo_Niko_Topi.exe
+C:\Users\Topsun opiskelut\source\repos\UusinOhjelma\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Harjoitustyo_Niko_Topi.pdb
+C:\Users\Topsun opiskelut\source\repos\UusinOhjelma\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Topsun opiskelut\source\repos\UusinOhjelma\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Topsun opiskelut\source\repos\UusinOhjelma\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.LogIn.resources
+C:\Users\Topsun opiskelut\source\repos\UusinOhjelma\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.Tietokanta.resources
+C:\Users\Topsun opiskelut\source\repos\UusinOhjelma\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.Properties.Resources.resources
+C:\Users\Topsun opiskelut\source\repos\UusinOhjelma\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csproj.GenerateResource.cache
+C:\Users\Topsun opiskelut\source\repos\UusinOhjelma\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csproj.CoreCompileInputs.cache
+C:\Users\Topsun opiskelut\source\repos\UusinOhjelma\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csproj.CopyComplete
+C:\Users\Topsun opiskelut\source\repos\UusinOhjelma\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.exe
+C:\Users\Topsun opiskelut\source\repos\UusinOhjelma\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi (2)\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.pdb
+C:\Users\OMISTAJA\Desktop\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Harjoitustyo_Niko_Topi.exe.config
+C:\Users\OMISTAJA\Desktop\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Harjoitustyo_Niko_Topi.exe
+C:\Users\OMISTAJA\Desktop\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Harjoitustyo_Niko_Topi.pdb
+C:\Users\OMISTAJA\Desktop\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OMISTAJA\Desktop\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OMISTAJA\Desktop\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\Desktop\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.LogIn.resources
+C:\Users\OMISTAJA\Desktop\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.Tietokanta.resources
+C:\Users\OMISTAJA\Desktop\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.Properties.Resources.resources
+C:\Users\OMISTAJA\Desktop\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csproj.GenerateResource.cache
+C:\Users\OMISTAJA\Desktop\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\Desktop\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csproj.CopyComplete
+C:\Users\OMISTAJA\Desktop\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.exe
+C:\Users\OMISTAJA\Desktop\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.pdb
+C:\Users\Njekk\Desktop\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Harjoitustyo_Niko_Topi.exe.config
+C:\Users\Njekk\Desktop\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Harjoitustyo_Niko_Topi.exe
+C:\Users\Njekk\Desktop\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Harjoitustyo_Niko_Topi.pdb
+C:\Users\Njekk\Desktop\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Njekk\Desktop\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Njekk\Desktop\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csproj.AssemblyReference.cache
+C:\Users\Njekk\Desktop\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.LogIn.resources
+C:\Users\Njekk\Desktop\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.Tietokanta.resources
+C:\Users\Njekk\Desktop\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.Properties.Resources.resources
+C:\Users\Njekk\Desktop\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csproj.GenerateResource.cache
+C:\Users\Njekk\Desktop\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csproj.CoreCompileInputs.cache
+C:\Users\Njekk\Desktop\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csproj.CopyComplete
+C:\Users\Njekk\Desktop\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.exe
+C:\Users\Njekk\Desktop\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.pdb
+C:\Users\OMISTAJA\Desktop\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Harjoitustyo_Niko_Topi.exe.config
+C:\Users\OMISTAJA\Desktop\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Harjoitustyo_Niko_Topi.exe
+C:\Users\OMISTAJA\Desktop\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Harjoitustyo_Niko_Topi.pdb
+C:\Users\OMISTAJA\Desktop\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OMISTAJA\Desktop\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OMISTAJA\Desktop\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\Desktop\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.LogIn.resources
+C:\Users\OMISTAJA\Desktop\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.Tietokanta.resources
+C:\Users\OMISTAJA\Desktop\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.Properties.Resources.resources
+C:\Users\OMISTAJA\Desktop\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csproj.GenerateResource.cache
+C:\Users\OMISTAJA\Desktop\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\Desktop\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csproj.CopyComplete
+C:\Users\OMISTAJA\Desktop\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.exe
+C:\Users\OMISTAJA\Desktop\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.pdb
+C:\Users\OMISTAJA\OneDrive - Savonia-ammattikorkeakoulu\Työpöytä\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Harjoitustyo_Niko_Topi.exe.config
+C:\Users\OMISTAJA\OneDrive - Savonia-ammattikorkeakoulu\Työpöytä\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Harjoitustyo_Niko_Topi.exe
+C:\Users\OMISTAJA\OneDrive - Savonia-ammattikorkeakoulu\Työpöytä\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Harjoitustyo_Niko_Topi.pdb
+C:\Users\OMISTAJA\OneDrive - Savonia-ammattikorkeakoulu\Työpöytä\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OMISTAJA\OneDrive - Savonia-ammattikorkeakoulu\Työpöytä\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OMISTAJA\OneDrive - Savonia-ammattikorkeakoulu\Työpöytä\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\OneDrive - Savonia-ammattikorkeakoulu\Työpöytä\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.LogIn.resources
+C:\Users\OMISTAJA\OneDrive - Savonia-ammattikorkeakoulu\Työpöytä\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.Tietokanta.resources
+C:\Users\OMISTAJA\OneDrive - Savonia-ammattikorkeakoulu\Työpöytä\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.Properties.Resources.resources
+C:\Users\OMISTAJA\OneDrive - Savonia-ammattikorkeakoulu\Työpöytä\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csproj.GenerateResource.cache
+C:\Users\OMISTAJA\OneDrive - Savonia-ammattikorkeakoulu\Työpöytä\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\OneDrive - Savonia-ammattikorkeakoulu\Työpöytä\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.csproj.CopyComplete
+C:\Users\OMISTAJA\OneDrive - Savonia-ammattikorkeakoulu\Työpöytä\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.exe
+C:\Users\OMISTAJA\OneDrive - Savonia-ammattikorkeakoulu\Työpöytä\Lopputyo\Lopputyo\Lopputyo\Harjoitustyo_Niko_Topi\Harjoitustyo_Niko_Topi\obj\Debug\Harjoitustyo_Niko_Topi.pdb
